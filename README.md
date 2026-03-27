@@ -1,7 +1,7 @@
 ## Hey there 👋
 
-I'm Christian — a data analyst & Informatics student who likes turning messy data into “oh, that makes sense” insights 📊✨  
-I enjoy building dashboards that tell a story, cleaning data until it behaves, and finding patterns hiding in spreadsheets 🔍📈
+I'm Christian — a data analyst & Informatics student who likes turning messy data into “oh, that makes sense” insights  
+I enjoy building dashboards that tell a story, cleaning data until it behaves, and finding patterns hiding in spreadsheets 
 
 ![Role](https://img.shields.io/badge/role-data%20analyst-7FB3D5?style=flat-square)
 ![Excel](https://img.shields.io/badge/excel-analysis-AED6F1?style=flat-square)

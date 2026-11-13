@@ -1,3 +1,5 @@
+<img src="christmas-tree.svg" alt="Animated binary Christmas tree" width="260" align="right">
+
 ## Hey there 👋
 
 I'm Christian — a data analyst & Informatics student who likes turning messy data into “oh, that makes sense” insights  
@@ -13,3 +15,5 @@ I enjoy building dashboards that tell a story, cleaning data until it behaves, a
 💼 [LinkedIn](https://www.linkedin.com/in/flores1212/)  
 📊 [Tableau Public](https://public.tableau.com/app/profile/christian.ramirez.flores/vizzes)  
 📬 [Email](mailto:chris.ram@me.com)
+
+---

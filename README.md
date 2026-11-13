@@ -15,4 +15,5 @@ I enjoy building dashboards that tell a story, cleaning data, and finding patter
 💼 [LinkedIn](https://www.linkedin.com/in/flores1212/)  
 📊 [Tableau Public](https://public.tableau.com/app/profile/christian.ramirez.flores/vizzes)  
 📬 [Email](mailto:chris.ram@me.com)
+
 ---

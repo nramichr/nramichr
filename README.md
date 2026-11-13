@@ -1,4 +1,4 @@
-<img src="christmas-tree.svg" alt="Animated binary Christmas tree" width="260" align="right">
+<img src="christmas-tree2.svg" alt="Animated binary Christmas tree" width="260" align="right">
 
 ## Hey there 👋
 
